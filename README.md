@@ -98,3 +98,5 @@ endmodule
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 **RESULTS**
+
+Thus, the JK Flip-Flop was successfully implemented using Verilog HDL with an if-else behavioral description, and its functionality was verified according to the JK flip-flop functional table. The flip-flop performed hold, set, reset, and toggle operations correctly for the corresponding input combinations.
